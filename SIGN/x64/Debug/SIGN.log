@@ -1,0 +1,7 @@
+﻿  SIGN.cpp
+c:\users\niyayoubingba\source\repos\sign\sign\sign.cpp(103): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\niyayoubingba\source\repos\sign\sign\sign.cpp(104): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\niyayoubingba\source\repos\sign\sign\sign.cpp(110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\niyayoubingba\source\repos\sign\sign\sign.cpp(111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\niyayoubingba\source\repos\sign\sign\sign.cpp(112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SIGN.vcxproj -> C:\Users\niyayoubingba\source\repos\SIGN\x64\Debug\SIGN.exe
